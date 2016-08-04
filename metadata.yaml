@@ -1,0 +1,29 @@
+_repo: Twenty-Two-Goblins_2290
+_version: 0.0.1
+alternative_title: Vetalapañchavimsati
+contributor:
+  translator:
+    agent_name: Ryder, Arthur W. (Arthur William)
+    alias: Ryder, Arthur William
+    birthdate: 1877
+    deathdate: 1938
+    gutenberg_agent_id: '9679'
+    url: http://www.gutenberg.org/2009/agents/9679
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_W._Ryder
+description: ''
+gutenberg_issued: '2000-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2290'
+language: en
+language_note: Translated from the Sanskrit
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- India'
+- !lcc 'PK'
+- !lcsh 'Tales -- India'
+- GITenberg
+title: Twenty-Two Goblins
+url: http://www.gutenberg.org/ebooks/2290
